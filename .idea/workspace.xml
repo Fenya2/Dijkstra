@@ -27,7 +27,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/fenya/2022/university/subjects/its/jsproj/Dijkstra",
+    "javascript.nodejs.core.library.configured.version": "12.22.9",
+    "javascript.nodejs.core.library.typings.version": "12.20.55",
+    "last_opened_file_path": "/home/fenya/2022/university/subjects/its/jsproj/floatNums",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,7 +49,9 @@
       <workItem from="1669936382446" duration="1783000" />
       <workItem from="1670193590801" duration="116000" />
       <workItem from="1670193750958" duration="159000" />
-      <workItem from="1670222285585" duration="2633000" />
+      <workItem from="1670222285585" duration="2869000" />
+      <workItem from="1670535475308" duration="2009000" />
+      <workItem from="1670541200680" duration="51000" />
     </task>
     <servers />
   </component>

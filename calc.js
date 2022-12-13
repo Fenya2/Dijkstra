@@ -126,6 +126,6 @@ function myEval(exp)
     return count(cExp);
 }
 //let exp = "(2^2)+2*2";
-let exp = process.argv[2].toString();
-console.log("my eval:", myEval(exp));
-console.log("eval:", eval(exp.replace(/\^/g, "**")))
+let exp = "(" + process.argv[2].toString() + ")";
+console.log("my_eval:", myEval(exp));
+console.log("JS_eval:", eval(exp.replace(/\^/g, "**")))
